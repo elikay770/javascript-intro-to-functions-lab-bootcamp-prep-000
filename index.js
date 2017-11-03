@@ -15,5 +15,7 @@ var greeting
 greeting = 'hello'
 return `I can't hear you!`
 }
+function sayHiToGrandma (greeting) {
 greeting = 'HELLO'
 return `YES, INDEED!`
+}
