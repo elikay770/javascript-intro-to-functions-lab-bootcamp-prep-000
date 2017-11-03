@@ -15,3 +15,8 @@ var greeting
 greeting = 'hello'.toLowerCaseowercase
 return `I can't hear you!`
 }
+unction sayHiToGrandma (greeting) {
+var greeting
+greeting = 'hello'.toUpperCase
+return `YES INDEED!`
+}
