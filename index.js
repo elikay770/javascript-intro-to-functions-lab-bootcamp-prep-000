@@ -10,11 +10,8 @@ function logShout (string) {
 function logWhisper (string) {
   console.log ('hello')
 }
-function sayHiToGrandma (hello) {
-  return `I can't hear you!`
-  console.log ('hello')
-}
-function sayHiToGrandma (hello) {
-console.log ('HELLO')
-  return `YES INDEED!`
+function sayHiToGrandma (greeting) {
+var greeting 
+greeting = 'hello'
+return `I can't hear you!`
 }
