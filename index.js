@@ -15,3 +15,5 @@ var greeting
 greeting = 'hello'
 return `I can't hear you!`
 }
+greeting = 'HELLO'
+return `YES, INDEED!`
