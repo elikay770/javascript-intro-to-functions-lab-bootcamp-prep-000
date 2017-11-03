@@ -12,11 +12,11 @@ function logWhisper (string) {
 }
 function sayHiToGrandma (greeting) {
 var greeting
-greeting = 'hello'.toLowerCaseowercase
+greeting = 'hello'.toLowerCase
 return `I can't hear you!`
 }
 function sayHiToGrandma (greeting) {
 var greeting
-greeting = 'hello'.toUpperCase
+greeting = 'HELLO'.tolowercase
 return `YES INDEED!`
 }
