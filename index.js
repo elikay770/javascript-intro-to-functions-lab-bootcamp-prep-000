@@ -15,6 +15,6 @@ function sayHiToGrandma (hello) {
   console.log ('hello')
 }
 function sayHiToGrandma (hello) {
+console.log ('HELLO')
   return `YES INDEED!`
-  console.log ('HELLO')
 }
