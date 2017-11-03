@@ -17,6 +17,8 @@ console.log (`I can't hear you!`)
 }
 function sayHiToGrandma (greeting) {
   var greeting
+  greeting = 'hello'
+  return `I can't hear you`
 greeting = 'HELLO'
 return `YES INDEED!`
 }
