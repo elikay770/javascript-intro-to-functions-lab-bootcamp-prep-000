@@ -18,4 +18,3 @@ function sayHiToGrandma (greeting) {
 if (greeting.toUpperCase() === greeting) {
 return `YES INDEED!`
 }}
-
