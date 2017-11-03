@@ -15,5 +15,3 @@ var greeting
 greeting = 'hello'.toLowerCaseowercase
 return `I can't hear you!`
 }
-
-
